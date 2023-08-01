@@ -12,7 +12,7 @@
 - Dual Specialization in Computer Science and Engineering & Business Systems at RGMCET.
 
 ## 💡 Computer Science
-- Coding enthusiast with expertise in Python, Java, and C++.
+- Coding enthusiast with expertise in Python, Java and C.
 
 ## 📈 Business Systems
 - Passionate about data analysis and strategic decision-making.
