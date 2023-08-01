@@ -36,8 +36,8 @@ Let's connect and explore the world of tech and business together! 😊🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/billurivarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="billurivarun" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varunbilluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunbilluri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/billurivarun" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="billurivarun" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/varunbilluri" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="varunbilluri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
