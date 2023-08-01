@@ -1,46 +1,23 @@
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://varunbiluri.github.io/hackthon-vnrvjit/)
+<h1 align="center">Hi 👋, I'm B Varun Kumar Reddy</h1>
+<h3 align="center">A passionate fullstack developer from India!</h3>
+<img align="right" alt="Coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunbiluri&label=Profile%20views&color=0e75b6&style=flat" alt="varunbiluri" /> </p>
 
-👋 Hi there! I'm **BILLURI VARUN KUMAR REDDY**, and I'm thrilled to connect with you! 😊
+- 🔭 I’m currently working on [Movie Recommendations System](https://github.com/varunbiluri/capstone)
 
+- 📫 How to reach me **varunreddy.billuri@gmail.com**
 
-def greet_with_animation():
-    greetings = ["Hello", "Hi", "Hey", "Hola", "Namaste"]
-    for greeting in greetings:
-        print(greeting + " there! ", end="")
-        time.sleep(1)  # Adding a 1-second pause between greetings
-    print("\nI'm **BILLURI VARUN KUMAR REDDY**, and I'm thrilled to connect with you! 😊")
-import time
-greet_with_animation()
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/billurivarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="billurivarun" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/varunbilluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunbilluri" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-🎓 **Education:**
-I'm currently pursuing a dual specialization in **Computer Science and Engineering** as well as **Business Systems** at Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET). Go RGMCET Tigers! 🐯
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunbiluri&show_icons=true&locale=en&layout=compact" alt="varunbiluri" /></p>
 
-💡 **Computer Science and Engineering:**
-👨‍💻 I love coding and creating software that solves real-world problems. Some of my favorite languages include:
-- Python 🐍
-- Java ☕
-- C++ 🖥️
-
-📈 **Business Systems:**
-📊 On the business side, I'm fascinated by data analysis and strategic decision-making. Let's talk about:
-- Business Analysis 📈
-- Project Management 📆
-- Information Systems 🗂️
-
-💻 **GitHub:**
-You can explore my latest coding projects and contributions on my GitHub profile: [insert your GitHub profile URL here]. 🚀 Feel free to star, fork, or collaborate on any project that catches your eye!
-
-📫 **Contact:**
-I'm always excited to connect with fellow students, developers, and professionals. Drop me a line at varunreddy.billuri@gmail.com 📧, and let's geek out on tech together! 🤓
-
-🌟 **Interests:**
-Beyond the books and code, I'm an avid fan of entrepreneurship and startups. Let's exchange ideas on:
-- Startup Culture 💼
-- Innovative Technologies 🌐
-- Business Strategy 🚀
-
-🏏 In my free time, I enjoy playing cricket with friends, because sports are a great way to relax and stay active! 🏏 When I'm not on the field or coding, you can find me exploring new places and cuisines. 🌮🍔
-
-
-Let's make learning and connecting a joyous experience! Feel free to interact, ask questions, or share your thoughts. Let's embark on an exciting journey together! 🚀😃
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunbiluri&show_icons=true&locale=en" alt="varunbiluri" /></p>
