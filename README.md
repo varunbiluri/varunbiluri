@@ -6,8 +6,33 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunbiluri&label=Profile%20views&color=0e75b6&style=flat" alt="varunbiluri" /> </p>
 
 - 🔭 I’m currently working on [Movie Recommendations System](https://github.com/varunbiluri/capstone)
+- # 👋 Hi there! I'm BILLURI VARUN KUMAR REDDY
 
-- 📫 How to reach me **varunreddy.billuri@gmail.com**
+## 🎓 Education
+- Dual Specialization in Computer Science and Engineering & Business Systems at RGMCET.
+
+## 💡 Computer Science
+- Coding enthusiast with expertise in Python, Java, and C++.
+
+## 📈 Business Systems
+- Passionate about data analysis and strategic decision-making.
+
+## 💻 GitHub
+- Check out my latest projects on [My GitHub profile](https://github.com/your-username).
+- Open to collaboration and contributions.
+
+## 🌟 Interests
+- Enthusiastic about entrepreneurship and startups.
+- Interested in innovative technologies and business strategy.
+
+## 🏀 Hobbies
+- Love playing basketball 🏀 and exploring new places and cuisines.
+
+Let's connect and explore the world of tech and business together! 😊🚀
+
+## 📫 Contact
+- Reach me at varunreddy.billuri@gmail.com.
+- Excited to connect with students and professionals.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
