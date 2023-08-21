@@ -18,7 +18,7 @@
 - Passionate about data analysis and strategic decision-making.
 
 ## 💻 GitHub
-- Check out my latest projects on [My GitHub profile](https://github.com/your-username).
+- Check out my latest projects on [My GitHub profile](https://github.com/varunbiluri?tab=repositories).
 - Open to collaboration and contributions.
 
 ## 🌟 Interests
