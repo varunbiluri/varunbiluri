@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunbiluri&label=Profile%20views&color=0e75b6&style=flat" alt="varunbiluri" /> </p>
 
-- 🔭 I’m currently working on [Movie Recommendations System](https://github.com/varunbiluri/capstone)
+- 🔭 I’m currently working on [Online Coding Platform like leetcode ](https://github.com/skg1312/codecrafts.git)
 - # 👋 Hi there! I'm BILLURI VARUN KUMAR REDDY
 
 ## 🎓 Education
