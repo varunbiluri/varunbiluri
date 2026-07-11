@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="72" viewBox="0 0 920 72">
-  <defs>
-    <linearGradient id="cta" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#134e4a"/>
-      <stop offset="100%" stop-color="#164e63"/>
-    </linearGradient>
-  </defs>
-  <rect width="920" height="72" rx="14" fill="url(#cta)" stroke="#1e3a3a"/>
-  <text x="32" y="32" fill="#99f6e4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600">Open to ML systems · agentic AI · multilingual voice engineering roles</text>
-  <text x="32" y="52" fill="#cbd5e1" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">varunreddy.billuri@gmail.com  ·  linkedin.com/in/billurivarun  ·  github.com/varunbiluri</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="72" viewBox="0 0 920 72"><defs><linearGradient id="cta" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" stop-color="#134e4a"/><stop offset="100%" stop-color="#164e63"/></linearGradient></defs><rect width="920" height="72" fill="url(#cta)" stroke="#1e3a3a" rx="14"/><text x="32" y="32" fill="#99f6e4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600">Open to ML systems ï¿½ agentic AI ï¿½ multilingual voice engineering roles</text><text x="32" y="52" fill="#cbd5e1" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">varunreddy.billuri@gmail.com ï¿½ linkedin.com/in/billurivarun ï¿½ github.com/varunbiluri</text></svg>

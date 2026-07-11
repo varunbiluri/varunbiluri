@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="120" viewBox="0 0 920 120">
-  <rect width="920" height="120" rx="14" fill="#0f1419" stroke="#1e293b"/>
-  <text x="32" y="36" fill="#64748b" font-family="ui-monospace, monospace" font-size="11" letter-spacing="1">PRODUCTION STACK</text>
-  <g font-family="ui-sans-serif, sans-serif" font-size="11">
-    <text x="32" y="64" fill="#94a3b8">GenAI</text>
-    <text x="100" y="64" fill="#e2e8f0">LangChain · LangGraph · RAG · PyTorch · Hugging Face · Ollama</text>
-    <text x="32" y="86" fill="#94a3b8">Platform</text>
-    <text x="100" y="86" fill="#e2e8f0">Airflow · Snowflake · PostgreSQL · FastAPI · React · MLflow</text>
-    <text x="32" y="108" fill="#94a3b8">Cloud</text>
-    <text x="100" y="108" fill="#e2e8f0">AWS · Azure · GCP · Docker · Kubernetes · Grafana · Prometheus</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="120" viewBox="0 0 920 120"><rect width="920" height="120" fill="#0f1419" stroke="#1e293b" rx="14"/><text x="32" y="36" fill="#64748b" font-family="ui-monospace, monospace" font-size="11" letter-spacing="1">PRODUCTION STACK</text><g font-family="ui-sans-serif, sans-serif" font-size="11"><text x="32" y="64" fill="#94a3b8">GenAI</text><text x="100" y="64" fill="#e2e8f0">LangChain ï¿½ LangGraph ï¿½ RAG ï¿½ PyTorch ï¿½ Hugging Face ï¿½ Ollama</text><text x="32" y="86" fill="#94a3b8">Platform</text><text x="100" y="86" fill="#e2e8f0">Airflow ï¿½ Snowflake ï¿½ PostgreSQL ï¿½ FastAPI ï¿½ React ï¿½ MLflow</text><text x="32" y="108" fill="#94a3b8">Cloud</text><text x="100" y="108" fill="#e2e8f0">AWS ï¿½ Azure ï¿½ GCP ï¿½ Docker ï¿½ Kubernetes ï¿½ Grafana ï¿½ Prometheus</text></g></svg>
