@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="280" viewBox="0 0 920 280">
+  <rect width="920" height="280" rx="14" fill="#0f1419" stroke="#1e293b"/>
+  <text x="32" y="36" fill="#64748b" font-family="ui-monospace, monospace" font-size="11" letter-spacing="1">CASE STUDY · 01</text>
+  <text x="32" y="68" fill="#f8fafc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700">Agentic Pipeline Reliability</text>
+  <text x="32" y="92" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">ThoughtSpot · Member of Technical Staff 2</text>
+  <!-- architecture -->
+  <g font-family="ui-monospace, monospace" font-size="10">
+    <rect x="32" y="118" width="120" height="36" rx="6" fill="#111820" stroke="#334155"/>
+    <text x="52" y="140" fill="#94a3b8">Airflow fail</text>
+    <text x="168" y="140" fill="#475569">’</text>
+    <rect x="188" y="118" width="120" height="36" rx="6" fill="#132028" stroke="#2dd4bf"/>
+    <text x="204" y="140" fill="#2dd4bf">LangGraph</text>
+    <text x="324" y="140" fill="#475569">’</text>
+    <rect x="344" y="118" width="100" height="36" rx="6" fill="#111820" stroke="#334155"/>
+    <text x="358" y="140" fill="#94a3b8">RAG context</text>
+    <text x="460" y="140" fill="#475569">’</text>
+    <rect x="480" y="118" width="90" height="36" rx="6" fill="#111820" stroke="#334155"/>
+    <text x="494" y="140" fill="#94a3b8">Slack</text>
+    <text x="586" y="140" fill="#475569">’</text>
+    <rect x="606" y="118" width="80" height="36" rx="6" fill="#111820" stroke="#334155"/>
+    <text x="620" y="140" fill="#94a3b8">Jira</text>
+    <rect x="706" y="118" width="110" height="36" rx="6" fill="#132028" stroke="#38bdf8"/>
+    <text x="718" y="140" fill="#38bdf8">Remediate</text>
+  </g>
+  <line x1="32" y1="178" x2="888" y2="178" stroke="#1e293b"/>
+  <text x="32" y="204" fill="#64748b" font-family="ui-sans-serif, sans-serif" font-size="12">Problem</text>
+  <text x="120" y="204" fill="#cbd5e1" font-family="ui-sans-serif, sans-serif" font-size="12">Pipeline failures caused slow triage, noisy alerts, manual on-call toil</text>
+  <text x="32" y="232" fill="#64748b" font-family="ui-sans-serif, sans-serif" font-size="12">Shipped</text>
+  <text x="120" y="232" fill="#cbd5e1" font-family="ui-sans-serif, sans-serif" font-size="12">LLM log summarization · anomaly detection · guardrailed auto-remediation</text>
+  <text x="32" y="260" fill="#64748b" font-family="ui-sans-serif, sans-serif" font-size="12">Outcome</text>
+  <text x="120" y="260" fill="#2dd4bf" font-family="ui-sans-serif, sans-serif" font-size="12" font-weight="600">~60% MTTR reduction · standardized incident response · PB-scale ETL reliability</text>
+</svg>
