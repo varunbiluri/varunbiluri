@@ -1,197 +1,187 @@
-<div align="center">
+<!-- Unique portfolio — built from resume, not a template -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Varun+Billuri;ML+Engineer+%7C+LLM+Systems;Multi-Agent+AI+%7C+MLOps;Research-Driven+Builder" alt="Typing SVG" />
+<h1 align="left">Varun Billuri</h1>
 
-<br/>
+<p align="left">
+  <strong>AI/ML Engineer</strong> · Agentic systems · Multilingual voice AI · MLOps<br/>
+  Building production AI that survives real pipelines, real languages, and real on-call.
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=varunbiluri&color=6366f1&style=for-the-badge)](https://github.com/varunbiluri)
-[![GitHub followers](https://img.shields.io/github/followers/varunbiluri?style=for-the-badge&logo=github&color=181717)](https://github.com/varunbiluri?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunbilluri)
-[![Email](https://img.shields.io/badge/Email-varunreddy.billuri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunreddy.billuri@gmail.com)
-
-<br/>
-
-`Machine Learning` · `LLMs` · `Multi-Agent Systems` · `MLOps` · `Distributed Training` · `RAG` · `Cloud AI`
-
-</div>
+<p align="left">
+  <a href="mailto:varunreddy.billuri@gmail.com">varunreddy.billuri@gmail.com</a> ·
+  <a href="https://linkedin.com/in/billurivarun">LinkedIn</a> ·
+  <a href="https://github.com/varunbiluri">GitHub</a> ·
+  Andhra Pradesh, India
+</p>
 
 ---
 
-## About Me
+## Impact at a glance
 
-```python
-class VarunBilluri:
-    def __init__(self):
-        self.role = "ML Engineer & AI Systems Builder"
-        self.location = "Andhra Pradesh, India"
-        self.focus = [
-            "Large Language Models & Agentic AI",
-            "Model Training & ML Infrastructure",
-            "Production ML Pipelines on Azure/K8s",
-            "Multi-Agent Orchestration & Tool Use",
-        ]
-        self.currently = "Building intelligent systems at the intersection of research and production"
-        self.learning = ["Efficient fine-tuning", "Eval harnesses", "Scalable inference"]
-        self.ask_me_about = ["LLM agents", "MLOps", "FastAPI + Azure OpenAI", "System design for ML"]
+| | |
+|:--|:--|
+| **~60% MTTR reduction** | Agentic incident response at ThoughtSpot — auto-triage, Slack routing, Jira creation |
+| **Petabyte-scale ETL** | Orchestration across AWS & GCP feeding ML training datasets |
+| **Healthcare multilingual AI** | Tigrinya, Wolof, Bambara, Arabic dialects — STT/TTS/LLM eval at Worldish |
+| **Rank 1973 / 200k+** | CodeKaze coding competition |
+| **Published research** | Medical record digitization with OCR — IJARCCE |
+
+---
+
+## What I build
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  AGENTIC RELIABILITY          MULTILINGUAL AI          MLOps    │
+│  LangGraph · RAG · Airflow    STT · TTS · LLM eval    Fine-tune │
+│  Anomaly detection · MTTR     Low-resource languages  Deploy    │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-I'm an **ML Engineer** who ships research-inspired systems into production — from **LLM-powered agents** and **multi-agent workflows** to **model training pipelines** and **cloud-native ML infrastructure**. I care about reproducible experiments, clean evals, and systems that scale beyond a notebook.
+I work at the intersection of **GenAI systems engineering** and **production ML** — from LangGraph agents that remediate Airflow failures, to real-time voice AI for healthcare in under-resourced languages.
 
 ---
 
-## Tech Stack
+## Experience
 
-<div align="center">
+### [Worldish](https://worldish.se) · Software Engineer
+`Dec 2025 — Present` · Multilingual healthcare AI
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,typescript,react,docker,kubernetes,azure,linux,git&perline=11" alt="Tech stack" />
+- Lead AI/ML feature development for **production healthcare conversational systems**
+- Built **MLOps pipelines** for rare & low-resource language fine-tuning — dataset prep → train → eval → deploy
+- Engineered **Arabic dialect evaluation platform** integrating LLM prompting, STT, and TTS across multiple providers
+- Redesigned core AI pipelines for **multilingual orchestration**, inference scalability, and cross-service reliability
+- Benchmarked LLM/STT/TTS providers on **accuracy, latency, and conversational quality** for real-time interactions
 
-### ML / AI Ecosystem
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF8F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+### [ThoughtSpot](https://www.thoughtspot.com) · Member of Technical Staff 2
+`Jan 2025 — Dec 2025` · Agentic AI & data platform reliability
 
-</div>
+- Built **agentic AI framework** (LangChain + LangGraph) for Airflow pipeline failure triage — rule-based logic + LLM classification, Slack alerts, safe auto-remediation
+- Deployed **LLM log summarization** (LangChain + Ollama) converting raw Airflow logs into developer-facing insights
+- Shipped **AI anomaly detection** on ETL metadata (DAG states, XComs, SIGTERM patterns) with PostgreSQL dashboards for SRE teams
+- Cut **MTTR by ~60%** with ML classifiers auto-routing alerts to Slack and auto-creating Jira tickets
+- Extended orchestration for **petabyte-scale ETL** across AWS & GCP; modularized pipelines for ML training datasets
+- Fine-tuned **Azure OpenAI models** for internal workflows — training loops, dataset preprocessing, eval scripts (PyTorch)
 
----
+### ThoughtSpot · AI/ML Intern
+`Jun 2024 — Dec 2024`
 
-## Research & Engineering Focus
-
-| Area | What I Work On |
-|:-----|:---------------|
-| **LLM Systems** | Tool-using agents, RAG pipelines, prompt engineering, Azure OpenAI integration |
-| **Multi-Agent AI** | Orchestration, delegation, autonomous workflows, job-search & content agents |
-| **ML Infrastructure** | Training pipelines, experiment tracking, CI/CD for ML, K8s deployments |
-| **MLOps** | Airflow + Spinnaker on AKS, Key Vault secrets, reproducible model serving |
-| **Applied ML** | Recommendation systems, GenAI applications, evaluation & benchmarking |
+- Built backend services & data pipelines for pricing/metrics datasets enabling downstream ML workflows
+- Prototyped **RAG system** (LangChain + Haystack) with vector stores for contextual Q&A on pricing data
+- Experimented with agentic workflows combining retrieval, summarization, and alerting
 
 ---
 
-## Featured Projects
+## Signature systems
 
-<table>
-<tr>
-<td width="50%">
+### Agentic pipeline reliability
+> LangGraph agents for autonomous triage, log summarization, root-cause analysis, and remediation
 
-### 🤖 [Multi-Agent Job Search](https://github.com/varunbiluri/indian-job-search-agents)
-Multi-agent system for the Indian job market with direct LLM integration and web search.
+```mermaid
+flowchart LR
+    A[Airflow Failure] --> B[LangGraph Agent]
+    B --> C{Classify}
+    C -->|Known| D[Rule-based Fix]
+    C -->|Unknown| E[LLM + RAG Context]
+    E --> F[Summarize Logs]
+    F --> G[Slack Alert]
+    G --> H[Jira Ticket]
+    D --> I[Auto-remediate]
+```
 
-`Python` `LangChain` `Agents`
+- RAG over historical incidents for grounded reasoning
+- Guardrails for safe action execution in production
+- **Result:** ~60% MTTR reduction, standardized on-call workflows
 
-</td>
-<td width="50%">
+---
 
-### ⚡ [FastAPI Tool Agent](https://github.com/varunbiluri/fastapi-tool-agent-clean)
-Production AI agent with multiple tools, Azure OpenAI, CI/CD, and Key Vault integration.
+### VisioVoice · Multimodal accessibility AI
+> Blind-first voice interaction with one-shot vision analysis and conversational memory
 
-`FastAPI` `Azure` `OpenAI`
+| Layer | Stack |
+|:------|:------|
+| Vision | Azure OpenAI Vision → structured JSON (no re-send) |
+| Voice | Azure Speech STT/TTS, continuous conversational loops |
+| Backend | FastAPI + React |
+| Design | Grounded architecture — deterministic reasoning from scene JSON |
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Real-time hazard-aware narration and spatial scene understanding for accessibility-focused interactions.
 
-### 🧠 [Model Training & ML Infra](https://github.com/varunbiluri/dynamo-1f505a6-model-training-and-ml-infrastructure)
-ML training workflows, infrastructure automation, and reproducible experiment pipelines.
+---
 
-`MLOps` `Training` `Infrastructure`
+### MediScan · Medical record digitization
+> OCR + LSTM pipeline for precision medical record digitization
 
-</td>
-<td width="50%">
+- Google OCR with advanced preprocessing
+- LSTM models + terminology correction
+- Flask interface for image-to-text conversion
+- **Published:** [IJARCCE DOI: 10.17148/IJARCCE.2024.134141](https://doi.org/10.17148/IJARCCE.2024.134141)
 
-### 🔗 [Coda — Multi-Agent Code AI](https://github.com/varunbiluri/coda)
-AI-powered code orchestration and testing with multi-agent workflow design.
+---
 
-`Python` `Multi-Agent` `Testing`
+## Open source & engineering work
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☁️ [AICP — AI Content Pipeline](https://github.com/varunbiluri/aicp-automated)
-Autonomous AI content pipeline deployed on Azure with end-to-end automation.
-
-`Azure` `GenAI` `Automation`
-
-</td>
-<td width="50%">
-
-### 📊 [Recommendation System](https://github.com/varunbiluri/recomendation-system)
-Applied ML project exploring collaborative filtering and ranking for recommendations.
-
-`Python` `ML` `Data Science`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More repositories →</b></summary>
-
-<br/>
-
-| Project | Description |
-|:--------|:------------|
-| [agent](https://github.com/varunbiluri/agent) | Core agent framework experiments |
-| [agents](https://github.com/varunbiluri/agents) | Multi-agent system prototypes |
-| [GenAI-LLM](https://github.com/varunbiluri/GenAI-LLM) | Generative AI & LLM explorations |
+| Project | What it demonstrates |
+|:--------|:---------------------|
+| [fastapi-tool-agent-clean](https://github.com/varunbiluri/fastapi-tool-agent-clean) | Production LLM agent — FastAPI, Azure OpenAI, Key Vault, CI/CD |
+| [indian-job-search-agents](https://github.com/varunbiluri/indian-job-search-agents) | Multi-agent orchestration with web retrieval |
+| [coda](https://github.com/varunbiluri/coda) | Multi-agent code orchestration & testing workflows |
 | [airflow-spinnaker](https://github.com/varunbiluri/airflow-spinnaker) | Airflow + Spinnaker on Azure Kubernetes |
-| [koda](https://github.com/varunbiluri/koda) | TypeScript application (⭐ 2) |
-| [project-dynamo-log-report](https://github.com/varunbiluri/project-dynamo-log-report) | ML infrastructure benchmarking & log analysis |
-
-</details>
+| [aicp-automated](https://github.com/varunbiluri/aicp-automated) | Autonomous GenAI content pipeline on Azure |
+| [recomendation-system](https://github.com/varunbiluri/recomendation-system) | IR & recommendation system implementation |
 
 ---
 
-## GitHub Analytics
+## Stack
 
-<div align="center">
+**Languages** · Python · Java · SQL · JavaScript · C
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=varunbiluri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunbiluri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8"/>
+**GenAI & ML** · LangChain · LangGraph · PyTorch · Hugging Face · RAG · LLM fine-tuning · Speech AI (STT/TTS) · Multilingual NLP · BERT · TensorFlow
 
-<br/>
+**Data & Platform** · Airflow · Snowflake · PostgreSQL · FastAPI · Django · Flask · React · MongoDB
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunbiluri&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunbiluri&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true" alt="Activity graph"/>
-
-</div>
+**Cloud & MLOps** · AWS · Azure · GCP · MLflow · Grafana · Prometheus · Ollama · Docker · Kubernetes
 
 ---
 
-## Currently Exploring
+## Education & credentials
 
-```
-▸ Efficient fine-tuning & alignment techniques
-▸ Agent eval harnesses & benchmark design
-▸ Scalable inference on Kubernetes
-▸ ML infrastructure for reproducible research
-```
+**B.Tech — Computer Science & Business Systems** · JNTU Anantapur · GPA 7.6/10 · `2020 — 2024`
+
+| Certification | Issuer |
+|:--------------|:-------|
+| AWS Certified Data Engineer – Associate (DEA-C01) | AWS |
+| Machine Learning Specialization | DeepLearning.AI & Stanford |
+| Generative AI with Large Language Models | — |
+| Java Programming & SE Fundamentals | Duke University |
+| Elite Certificate in IoT | NPTEL |
 
 ---
 
-## Connect
+## Publication
 
-<div align="center">
+> **Digitization of Medical Records using OCR**  
+> B. Varun Kumar Reddy, G. Kishor Kumar, et al.  
+> *International Journal of Advanced Research in Computer and Communication Engineering*  
+> [DOI: 10.17148/IJARCCE.2024.134141](https://doi.org/10.17148/IJARCCE.2024.134141)
 
-[![GitHub](https://img.shields.io/badge/GitHub-varunbiluri-181717?style=for-the-badge&logo=github)](https://github.com/varunbiluri)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunreddy.billuri@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunbilluri)
+---
 
-<br/>
+## Beyond code
 
-*"Turning ML research ideas into production-grade intelligent systems."*
+- Led university basketball team to **South Zone league finals**
+- **Class Representative**, CSE & BS Department · Core member, Tech Community
+- Active in hackathons — NLP & AI prototypes
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
+---
 
-</div>
+<p align="left">
+  <sub>
+    Currently at <strong>Worldish</strong> building multilingual healthcare AI ·
+    Previously shipped agentic reliability systems at <strong>ThoughtSpot</strong>
+  </sub>
+</p>
+
+<p align="left">
+  <a href="mailto:varunreddy.billuri@gmail.com"><strong>Get in touch →</strong></a>
+</p>
