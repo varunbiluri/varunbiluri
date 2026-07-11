@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="180" viewBox="0 0 920 180">
+  <rect width="920" height="180" rx="14" fill="#0f1419" stroke="#1e293b"/>
+  <text x="32" y="36" fill="#64748b" font-family="ui-monospace, monospace" font-size="11" letter-spacing="1">FEATURED REPOSITORIES - PIN THESE</text>
+  <g font-family="ui-sans-serif, system-ui, sans-serif" font-size="11">
+    <rect x="32" y="52" width="268" height="52" rx="10" fill="#132028" stroke="#2dd4bf"/>
+    <text x="48" y="74" fill="#2dd4bf" font-weight="600">fastapi-tool-agent-clean</text>
+    <text x="48" y="90" fill="#94a3b8">Production LLM agent | Azure | CI/CD</text>
+
+    <rect x="316" y="52" width="268" height="52" rx="10" fill="#111820" stroke="#1e293b"/>
+    <text x="332" y="74" fill="#38bdf8" font-weight="600">project-dynamo-log-report</text>
+    <text x="332" y="90" fill="#94a3b8">Harbor log-report | ML infra bench</text>
+
+    <rect x="600" y="52" width="288" height="52" rx="10" fill="#111820" stroke="#1e293b"/>
+    <text x="616" y="74" fill="#e2e8f0" font-weight="600">indian-job-search-agents</text>
+    <text x="616" y="90" fill="#94a3b8">Multi-agent LLM retrieval system</text>
+
+    <rect x="32" y="114" width="268" height="52" rx="10" fill="#111820" stroke="#1e293b"/>
+    <text x="48" y="136" fill="#e2e8f0" font-weight="600">airflow-spinnaker</text>
+    <text x="48" y="152" fill="#94a3b8">Airflow on AKS | Spinnaker deploy</text>
+
+    <rect x="316" y="114" width="268" height="52" rx="10" fill="#111820" stroke="#1e293b"/>
+    <text x="332" y="136" fill="#e2e8f0" font-weight="600">coda</text>
+    <text x="332" y="152" fill="#94a3b8">Multi-agent code orchestration</text>
+
+    <rect x="600" y="114" width="288" height="52" rx="10" fill="#111820" stroke="#1e293b"/>
+    <text x="616" y="136" fill="#e2e8f0" font-weight="600">aicp-automated</text>
+    <text x="616" y="152" fill="#94a3b8">GenAI content pipeline on Azure</text>
+  </g>
+</svg>

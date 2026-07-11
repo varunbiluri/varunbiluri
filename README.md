@@ -21,10 +21,14 @@
 </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/varunbiluri/varunbiluri/main/assets/case-dynamo.png" width="100%" alt="Handshake Dynamo ML infrastructure OSS"/>
+
 <img src="https://raw.githubusercontent.com/varunbiluri/varunbiluri/main/assets/stack.png" width="100%" alt="Production stack"/>
 
 <img src="https://raw.githubusercontent.com/varunbiluri/varunbiluri/main/assets/timeline.png" width="100%" alt="Experience timeline"/>
 
-<img src="https://raw.githubusercontent.com/varunbiluri/varunbiluri/main/assets/repos.png" width="100%" alt="Open source repositories"/>
+<img src="https://raw.githubusercontent.com/varunbiluri/varunbiluri/main/assets/pinned.png" width="100%" alt="Featured repositories"/>
 
 <img src="https://raw.githubusercontent.com/varunbiluri/varunbiluri/main/assets/footer.png" width="100%" alt="Contact"/>
+
+<p align="left"><sub>Replace pinned repos: Profile → Customize your pins → use the 6 repos shown above (not hackathon projects).</sub></p>

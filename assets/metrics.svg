@@ -7,23 +7,23 @@
   </defs>
   <g font-family="ui-sans-serif, system-ui, sans-serif">
     <rect x="0" y="0" width="218" height="100" rx="12" fill="#111820" stroke="#1e293b"/>
-    <text x="24" y="42" fill="url(#a)" font-size="28" font-weight="700">~60%</text>
-    <text x="24" y="68" fill="#94a3b8" font-size="12">MTTR reduction</text>
-    <text x="24" y="84" fill="#64748b" font-size="11">ThoughtSpot agentic ops</text>
+    <text x="24" y="42" fill="url(#a)" font-size="28" font-weight="700">1,867</text>
+    <text x="24" y="68" fill="#94a3b8" font-size="12">Contributions · last year</text>
+    <text x="24" y="84" fill="#64748b" font-size="11">42 repos · 18 stars</text>
 
     <rect x="234" y="0" width="218" height="100" rx="12" fill="#111820" stroke="#1e293b"/>
-    <text x="258" y="42" fill="#f8fafc" font-size="28" font-weight="700">PB-scale</text>
-    <text x="258" y="68" fill="#94a3b8" font-size="12">ETL orchestration</text>
-    <text x="258" y="84" fill="#64748b" font-size="11">AWS · GCP · Airflow</text>
+    <text x="258" y="42" fill="#f8fafc" font-size="28" font-weight="700">~60%</text>
+    <text x="258" y="68" fill="#94a3b8" font-size="12">MTTR reduction</text>
+    <text x="258" y="84" fill="#64748b" font-size="11">ThoughtSpot agentic ops</text>
 
     <rect x="468" y="0" width="218" height="100" rx="12" fill="#111820" stroke="#1e293b"/>
-    <text x="492" y="42" fill="#f8fafc" font-size="28" font-weight="700">12+ langs</text>
-    <text x="492" y="68" fill="#94a3b8" font-size="12">Healthcare voice AI</text>
-    <text x="492" y="84" fill="#64748b" font-size="11">STT · TTS · LLM eval</text>
+    <text x="492" y="42" fill="#f8fafc" font-size="28" font-weight="700">3 PRs</text>
+    <text x="492" y="68" fill="#94a3b8" font-size="12">Handshake Dynamo OSS</text>
+    <text x="492" y="84" fill="#64748b" font-size="11">ML infra · DB · release mgmt</text>
 
     <rect x="702" y="0" width="218" height="100" rx="12" fill="#111820" stroke="#1e293b"/>
-    <text x="726" y="42" fill="#f8fafc" font-size="28" font-weight="700">1 paper</text>
-    <text x="726" y="68" fill="#94a3b8" font-size="12">Published OCR research</text>
-    <text x="726" y="84" fill="#64748b" font-size="11">IJARCCE · DOI indexed</text>
+    <text x="726" y="42" fill="#f8fafc" font-size="28" font-weight="700">12+ langs</text>
+    <text x="726" y="68" fill="#94a3b8" font-size="12">Healthcare voice AI</text>
+    <text x="726" y="84" fill="#64748b" font-size="11">Worldish · STT · TTS · LLM</text>
   </g>
 </svg>
